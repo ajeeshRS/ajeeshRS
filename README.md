@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ajeeshrs&label=Profile%20views&color=0e75b6&style=flat" alt="ajeeshrs" /> </p>
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **FULL STACK**
 
 - 📫 How to reach me **ajeeshrs79@gmail.com**
 
