@@ -23,6 +23,8 @@
 | [Escrow contract](https://github.com/ajeeshRS/escrow_litesvm_timelock) | Escrow contract with timelock|
 | [SolanaPulse](https://github.com/ajeeshRS/capstone) | Decentralized community forum|
 | [Whitelist Vault](https://github.com/ajeeshRS/whitelist_vault) | Whitelist vault with transfer hook integration|
+| [LaunchpadX](https://github.com/ajeeshRS/launchpadX) | A token launchpad on solana (spl-token)|
+| [NFT minter](https://github.com/ajeeshRS/nft-minter) | An exclusive NFT minter on solana(verified mails only, 1 NFT per user)|
 
 ## OSS contributions
 
@@ -31,3 +33,11 @@
 | [CMS-100xdevs](https://github.com/code100x/cms/pulls?q=is%3Apr+is%3Amerged+author%3AajeeshRS+) | 
 | [Jobboard-100xdevs](https://github.com/code100x/job-board/pulls?q=is%3Apr+is%3Amerged+author%3AajeeshRS) | 
 | [Blueshift.gg dashboard](https://github.com/blueshift-gg/blueshift-dashboard/pulls?q=is%3Apr+author%3AajeeshRS+is%3Amerged+) | 
+
+## NPM Packages
+
+| Packages | 
+|---------|
+| [add-node-ts](https://github.com/ajeeshRS/add-node-ts) | 
+| [create-vite-twcss](https://github.com/ajeeshRS/create-vite-twcss) | 
+
