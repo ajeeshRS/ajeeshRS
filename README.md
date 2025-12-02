@@ -2,7 +2,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [Framesnapr](https://framensnapr.getprod.xyz/) | Screenshot beautifier(saas) |
+| [Framesnapr](https://framesnapr.getprod.xyz/) | Screenshot beautifier(saas) |
 | [Urbanpro studio](https://urbanprostudio.getprod.xyz) | Web dev agency landing page |
 | [Remoteez](https://remoteez.vercel.app) | Job portal |
 | [Cronify](https://cronify-web-rho.vercel.app) | Cron job scheduler |
