@@ -38,6 +38,6 @@
 
 | Packages | 
 |---------|
-| [add-node-ts](https://github.com/ajeeshRS/add-node-ts) | 
-| [create-vite-twcss](https://github.com/ajeeshRS/create-vite-twcss) | 
+| [add-node-ts](https://www.npmjs.com/package/add-node-ts) | 
+| [create-vite-twcss](https://www.npmjs.com/package/create-vite-twcss) | 
 
