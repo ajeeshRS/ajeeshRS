@@ -13,6 +13,7 @@
 
 | Project | Description |
 |---------|-------------|
+| [Multisig Vault](https://github.com/ajeeshRS/multisig-vault) | Allows multiple owners to manage a shared vault with deposit, withdrawal proposals, approval, and execution.|
 | [Prediction market](https://github.com/ajeeshRS/prediction-market) | Prediction market like polymarket (token split/merge/claim) |
 | [Sol Bot](https://github.com/ajeeshRS/sol-bot) | Simple Telegram bot interacting with solana |
 | [CP-Amm](https://github.com/ajeeshRS/amm-cp) | Constant product market maker |
