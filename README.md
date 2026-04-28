@@ -8,18 +8,6 @@ Building fast, reliable, and production-grade applications.
 
 ---
 
-## Web2 Projects
-
-| Project              | Description                             | Link |
-|----------------------|-----------------------------------------|------|
-| **FrontierXPass**    | a fun colossium frontier hackathon pass built within 3hr       | [Live](https://frontierxpass.getprod.xyz) |
-| **Framesnapr**       | screen beautifier               | [Live](https://framesnapr.getprod.xyz/) |
-| **Urbanpro Studio**  | Web development agency landing page     | [Live](https://urbanprostudio.getprod.xyz) |
-| **Remoteez**         | Job portal    (⚠️backend down)                          | [Live](https://remoteez.vercel.app) |
-| **Cronify**          | Cron job scheduler  (⚠️backend down)                    | [Live](https://cronify-web-rho.vercel.app) |
-
----
-
 ## Web3 & Solana Projects
 
 | Project                        | Description                                                                 | Link |
@@ -36,6 +24,21 @@ Building fast, reliable, and production-grade applications.
 | **Sol Bot**                    | Telegram bot interacting with Solana                                       | [Repo](https://github.com/ajeeshRS/sol-bot) |
 | **privRoll**                   | Private bulk payroll on Solana (Magicblock Private Payments)               | [Repo](https://github.com/ajeeshRS/privRoll) |
 | **Yellowstone gRPC fork**           | High-performance Solana streaming service (local setup)                    | [Repo](https://github.com/ajeeshRS/yellowstone-grpc) |
+
+---
+
+## Web2 Projects
+
+| Project              | Description                             | Link |
+|----------------------|-----------------------------------------|------|
+| **FrontierXPass**    | a fun colossium frontier hackathon pass built within 3hr       | [Live](https://frontierxpass.getprod.xyz) |
+| **Framesnapr**       | screen beautifier               | [Live](https://framesnapr.getprod.xyz/) |
+| **Urbanpro Studio**  | Web development agency landing page     | [Live](https://urbanprostudio.getprod.xyz) |
+| **Remoteez**         | Job portal    (⚠️backend down)                          | [Live](https://remoteez.vercel.app) |
+| **Cronify**          | Cron job scheduler  (⚠️backend down)                    | [Live](https://cronify-web-rho.vercel.app) |
+
+
+
 
 > More projects available in my [repositories](https://github.com/ajeeshRS?tab=repositories).
 
